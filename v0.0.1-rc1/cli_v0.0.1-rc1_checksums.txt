@@ -1,0 +1,4 @@
+190ea5ad51599fbf13a4a8efb706bfa5bfc1dab94d05ed105cf2885b36635ca9  cli_v0.0.1-rc1_darwin_amd64.tar.gz
+48ac3079b47af87d3b5a6bf1549f823c9ae9881612d83c3eb9eea040cfe3691a  cli_v0.0.1-rc1_darwin_arm64.tar.gz
+87bc77eb3716bfd7e896a54dc2d4a4d7518fabb7bb5f3db8afb2f558b1e3ee25  cli_v0.0.1-rc1_linux_amd64.tar.gz
+532c0d2315800186f1b7450161cb7b66ca64d5ec2a10ccd171306a27c50f9779  cli_v0.0.1-rc1_linux_arm64.tar.gz
