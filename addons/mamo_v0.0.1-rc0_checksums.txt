@@ -1,0 +1,4 @@
+1c22ac6770ec58f8ae23f250692831fa099058bab940edb0d4357b1e8e11c293  addons/mamo_v0.0.1-rc0_darwin_amd64.tar.gz
+72e464d8463dcbac4c96956e849b831c15510224784bd440da28c5ca4a7229ae  addons/mamo_v0.0.1-rc0_darwin_arm64.tar.gz
+e17dcf169c33197e2408ac09ad462a130e2f8c8a53b241a41a83ad191cfc34c7  addons/mamo_v0.0.1-rc0_linux_amd64.tar.gz
+1b357b4d79d8563fd2ce078f530630fed5a4e9d11ce8687c64fcdb69a7b64cd6  addons/mamo_v0.0.1-rc0_linux_arm64.tar.gz
